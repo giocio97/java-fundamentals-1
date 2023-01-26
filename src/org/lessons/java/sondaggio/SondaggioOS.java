@@ -28,6 +28,7 @@ public class SondaggioOS {
 		System.out.println("percentuale studenti windows:3 " + percentualeWindows + "%");
 		System.out.println("percentuale studenti linux: " + percentualeLinux + "%");
 		System.out.println("percentuale studenti macOS: " + percentualeMac + "%");
+		in.close();
 
 	}
 

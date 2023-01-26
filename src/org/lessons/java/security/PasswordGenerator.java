@@ -46,6 +46,7 @@ public class PasswordGenerator {
 		System.out.println("mese di nascita : " + meseDiNascita);
 		System.out.println("anno di nascita : " + annoDiNascita);
 		System.out.println("la tua password è  - : " + nome + "-" + cognome + "-" + colorePreferito + "-" + somma);
+		
 
 	}
 
